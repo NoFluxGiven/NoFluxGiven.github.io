@@ -1,0 +1,184 @@
+{
+  "nodes": [
+    {
+      "label": "Celeste",
+	  "type": "City",
+      "x": 1001,
+      "y": 591
+    },
+    {
+      "label": "Forest of Vis",
+	  "type": "Forest",
+      "x": 1211,
+      "y": 755
+    },
+    {
+      "label": "Autumn",
+	  "type": "Village",
+      "x": 1299,
+      "y": 684
+    },
+    {
+      "label": "Cursed Mountain",
+	  "type": "Mountain",
+      "x": 1182,
+      "y": 630
+    },
+    {
+      "label": "Windy Vale",
+	  "type": "Village",
+      "x": 1275,
+      "y": 427
+    },
+    {
+      "label": "Poisoned Grove",
+	  "type": "Forest",
+      "x": 903,
+      "y": 732
+    },
+    {
+      "label": "Mount Acdor",
+	  "type": "Mountain",
+      "x": 901,
+      "y": 628
+    },
+    {
+      "label": "Garth",
+	  "type": "City",
+      "x": 691,
+      "y": 997
+    },
+    {
+      "label": "Thiesglen",
+	  "type": "City",
+      "x": 207,
+      "y": 932
+    },
+    {
+      "label": "Moreth",
+	  "type": "Village",
+      "x": 225,
+      "y": 766
+    },
+    {
+      "label": "Goodwill Woods",
+	  "type": "Forest",
+      "x": 348,
+      "y": 965
+    },
+    {
+      "label": "Piach",
+	  "type": "Village",
+      "x": 329,
+      "y": 618
+    },
+    {
+      "label": "Thenides",
+	  "type": "Village",
+      "x": 90,
+      "y": 661
+    },
+    {
+      "label": "Curos",
+	  "type": "Village",
+      "x": 176,
+      "y": 434
+    },
+    {
+      "label": "Soros",
+	  "type": "Village",
+      "x": 212,
+      "y": 252
+    },
+    {
+      "label": "Balos",
+	  "type": "Village",
+      "x": 338,
+      "y": 244
+    },
+    {
+      "label": "Sand Pits",
+	  "type": "Dungeon",
+      "x": 326,
+      "y": 169
+    },
+    {
+      "label": "Crimson Woods",
+	  "type": "Forest",
+      "x": 286,
+      "y": 78
+    },
+    {
+      "label": "Illiga",
+	  "type": "Village",
+      "x": 514,
+      "y": 175
+    },
+    {
+      "label": "Blacktide Warrens",
+	  "type": "Dungeon",
+      "x": 749,
+      "y": 234
+    },
+    {
+      "label": "Liddest",
+	  "type": "Village",
+      "x": 797,
+      "y": 307
+    },
+    {
+      "label": "Parlich",
+	  "type": "Village",
+      "x": 886,
+      "y": 53
+    },
+    {
+      "label": "Eralest",
+	  "type": "Village",
+      "x": 1038,
+      "y": 135
+    },
+    {
+      "label": "Mount Allor",
+	  "type": "Mountain",
+      "x": 564,
+      "y": 569
+    },
+    {
+      "label": "Mount Traedor",
+	  "type": "Mountain",
+      "x": 645,
+      "y": 740
+    },
+    {
+      "label": "Black Mountain",
+	  "type": "Mountain",
+      "x": 704,
+      "y": 868
+    },
+    {
+      "label": "Settler's Point",
+	  "type": "Landmark",
+      "x": 851,
+      "y": 954
+    },
+    {
+      "label": "Menos",
+	  "type": "Village",
+      "x": 358,
+      "y": 406
+    },
+    {
+      "label": "Tomb of Turin",
+	  "type": "Mystery",
+      "x": 419,
+      "y": 529
+    },
+    {
+      "label": "Arches",
+	  "type": "City",
+      "x": 559,
+      "y": 489
+    }
+  ]
+}
