@@ -1,0 +1,368 @@
+[
+    {
+        "text": "<<Entry>>\n\n[img[world_map.png]]",
+        "tmap.id": "1b773fde-f135-4a10-a2bb-b0533eeec075",
+        "title": "Afias",
+        "tags": "location known",
+        "sublocations": "Celeste, Garth, Thiesglen, Piach",
+        "short_desc": "The main continent where Precipice takes place.",
+        "modified": "20190310151130350",
+        "icon": "icon_world_map.png",
+        "created": "20180712062551540"
+    },
+    {
+        "text": "",
+        "tmap.style": "{}",
+        "tmap.id": "7fcb0c72-6a04-4631-aeab-d0284955270e",
+        "title": "Arches",
+        "tags": "location known town",
+        "modified": "20190310142427024",
+        "icon": "icon_village.png",
+        "created": "20190310142403796"
+    },
+    {
+        "text": "<<Entry>>\n\nThe party rested here after meeting with [[Lilia|Overseer Lilia]], and were approached by a man asking them to give him the heart of a [[green dragon|Yndesdir]].",
+        "tmap.style": "{}",
+        "tmap.id": "9bec81e4-ccac-46ed-b32b-ccd03bdd82e6",
+        "title": "Autumn",
+        "tags": "location known town",
+        "short_desc": "A village deep within the [[Forest of Vis]] that is known for its odd, vertical structure.",
+        "modified": "20190311121737833",
+        "icon": "icon_village.png",
+        "created": "20190310132744260"
+    },
+    {
+        "text": "",
+        "tmap.style": "{}",
+        "tmap.id": "936a97d7-3b40-479c-9f25-d2fff3b188f9",
+        "title": "Balos",
+        "tags": "location known town",
+        "modified": "20190310142639169",
+        "icon": "icon_village.png",
+        "created": "20190310135413549"
+    },
+    {
+        "text": "",
+        "tmap.id": "3348af22-4ec9-4d91-8d8d-d5ac7794defa",
+        "title": "Bartor Mansion",
+        "tags": "location known sublocation",
+        "modified": "20190310153850536",
+        "icon": "icon_sublocation.png",
+        "created": "20190310153830114"
+    },
+    {
+        "text": "<<Entry>>\n\n\n",
+        "tmap.style": "{}",
+        "tmap.id": "6800dc6f-fe65-4cc1-8e88-ab0e929cc224",
+        "title": "Black Mountain",
+        "tags": "known location mountain",
+        "short_desc": "A mountain near [[Garth]] rumoured to be the home of military experimental weaponry.",
+        "modified": "20190311123841187",
+        "icon": "icon_summits.png",
+        "created": "20190310135603109"
+    },
+    {
+        "text": "<<Entry>>",
+        "tmap.style": "{}",
+        "tmap.id": "d8a13e55-9fe2-4c85-8f6e-e16f0681c46a",
+        "title": "Blacktide Warrens",
+        "tags": "location dungeon known",
+        "short_desc": "Warrens north of [[Liddest]]. The party found [[cult|Sanguine]] members here and evidence that there was foul play.",
+        "modified": "20190311124015075",
+        "icon": "icon_dungeon.png",
+        "created": "20190310135454765"
+    },
+    {
+        "text": "<$tmap view=\"Celeste\" click-to-use=\"true\" height=\"600px\" design=\"plain\"></$tmap>\n\n<<Entry>>\n\nWithin the city exists the [[Council]] residing in the [[Council Chambers]], the [[Celeste University]], and many other places of note.",
+        "tmap.style": "{\"font\":{\"size\":12,\"color\":\"rgba(255,255,255,1)\"},\"shape\":\"box\",\"borderWidthSelected\":3,\"color\":{\"border\":\"rgba(0,0,0,1)\",\"background\":\"rgba(227,255,244,1)\"},\"shapeProperties\":{\"borderDashes\":false}}",
+        "tmap.id": "65161364-1033-4edb-9a84-19a4c8048041",
+        "title": "Celeste",
+        "tags": "location known city",
+        "sublocation_of": "Afias",
+        "short_desc": "The city of Celeste is the largest, and most prosperous city in the continent of [[Afias]].",
+        "modified": "20190310154120929",
+        "icon": "icon_city.png",
+        "created": "20180712061722616"
+    },
+    {
+        "text": "",
+        "tmap.id": "6baee0e9-fadc-47d0-8205-6e337cc11fca",
+        "title": "Celeste University",
+        "tags": "location known sublocation",
+        "modified": "20190310153627712",
+        "icon": "icon_sublocation.png",
+        "created": "20190310153600265"
+    },
+    {
+        "text": "<<Entry>>",
+        "tmap.id": "7171f749-06d2-4e35-92fa-55e8ab0d7086",
+        "title": "Council Chambers",
+        "tags": "known location",
+        "sublocation_of": "Celeste",
+        "short_desc": "The residence for the [[Council]] in Celeste.",
+        "modified": "20190310151146614",
+        "icon": "icon_sublocation.png",
+        "created": "20180712062152211"
+    },
+    {
+        "text": "<<Entry>>\n\nThere are rumours that at the centre of the forest sleeps the last [[Fey]], but its many inhabitants make it difficult to traverse.",
+        "tmap.style": "{}",
+        "tmap.id": "0ccda845-729f-4e35-ae1c-bd8d84f61434",
+        "title": "Crimson Woods",
+        "tags": "forest known location",
+        "short_desc": "Was known as Malur, the home of the [[Fey]], before the [[Overlord]] cursed the soil and made the trees weep blood.",
+        "modified": "20190311020952896",
+        "icon": "icon_forest.png",
+        "created": "20190310135433229"
+    },
+    {
+        "text": "",
+        "tmap.style": "{}",
+        "tmap.id": "4ee2faf6-00fb-4d03-8e6c-21199a6f952d",
+        "title": "Curos",
+        "tags": "location known town",
+        "modified": "20190310142552704",
+        "icon": "icon_village.png",
+        "created": "20190310135351638"
+    },
+    {
+        "text": "<<Entry>>",
+        "tmap.style": "{}",
+        "tmap.id": "7aac4bf7-2f0a-4c1f-afd2-3bb1372c9228",
+        "title": "Cursed Mountain",
+        "tags": "location mountain known",
+        "short_desc": "A mountain said to have been cursed by an angry [[Lich]].",
+        "modified": "20190311124119946",
+        "icon": "icon_summits.png",
+        "created": "20190310132946012"
+    },
+    {
+        "text": "<<Entry>>",
+        "tmap.style": "{}",
+        "tmap.id": "eb3ca305-9825-45d9-93ef-9068e1d3fbe4",
+        "title": "Eralest",
+        "tags": "location town known",
+        "short_desc": "A town in between the frigid wasteland of the eastern and western rings. Those that live there are extremely resistant to the cold.",
+        "modified": "20190311124411971",
+        "icon": "icon_village.png",
+        "created": "20190310135523004"
+    },
+    {
+        "text": "<<Entry>>\n\nDue to its age and long history, the Forest contains many secrets and strange phenomena. It has been studied for years by [[scholars|Magic Scholars]] seeking to unlock the mysteries behind [[ghost sightings|Ghost]], [[areas of power|Spirits]], and [[Soulspheres]].\n\n!! History\n\n!!! [[Turin's Trap]]\n\nThe Forest of Vis was most notable for its involvement in [[Turin]]'s plans to rid the continent of the [[Overlord]].\n\nAfter [[planelocking|Planelock]] the location, he attempted to defeat the Overlord within.\n",
+        "tmap.style": "{\"shadow\":{\"enabled\":false}}",
+        "tmap.id": "7e84c623-210a-4862-a354-25f60550235f",
+        "title": "Forest of Vis",
+        "tags": "legendary location forest known",
+        "short_desc": "The Forest of Vis is a legendary forest on the continent of [[Afias]].",
+        "modified": "20190310142828577",
+        "icon": "icon_forest.png",
+        "created": "20180713005135563"
+    },
+    {
+        "text": "<<Entry>>",
+        "tmap.style": "{}",
+        "tmap.id": "5ddf4ab6-3f4b-4981-8e02-7cb8d4f8ca75",
+        "title": "Garth",
+        "tags": "location known city",
+        "short_desc": "Just southwest of [[Celeste]], Garth is infamous for its military rule, and has instigated war with [[Celeste]] many times.",
+        "modified": "20190311121202983",
+        "icon": "icon_city.png",
+        "created": "20190310133747332"
+    },
+    {
+        "text": "",
+        "tmap.style": "{}",
+        "tmap.id": "5c960bf0-edf0-4afa-9cf0-c2bcd29fc607",
+        "title": "Goodwill Woods",
+        "tags": "location known forest",
+        "modified": "20190310151550982",
+        "icon": "icon_forest.png",
+        "created": "20190310133843371"
+    },
+    {
+        "text": "<<Entry>>",
+        "tmap.id": "b2ae83bc-a4b8-402c-a44e-152643de1aa0",
+        "title": "House of Felen",
+        "tags": "location known sublocation",
+        "short_desc": "The house [[Felen]] lives in.",
+        "modified": "20190310154217025",
+        "icon": "icon_sublocation.png",
+        "created": "20190310153731506"
+    },
+    {
+        "text": "",
+        "tmap.style": "{}",
+        "tmap.id": "f800aee1-11c2-4cd0-af60-a0f2de3d0595",
+        "title": "Illiga",
+        "tags": "location known town",
+        "modified": "20190310142648665",
+        "icon": "icon_village.png",
+        "created": "20190310135443925"
+    },
+    {
+        "text": "<<Entry>>\n\nThe party encountered [[Blood Sorceress Wendolyn]] there after investigating the disappearance of a young [[Elven]] [[girl|Tafla]].",
+        "tmap.style": "{}",
+        "tmap.id": "d1a5b9c7-a7db-4dff-b6c0-f31926ff1a2f",
+        "title": "Liddest",
+        "tags": "location town known",
+        "short_desc": "Also known as Blacktide, Liddest is a small town northwest of [[Celeste]].",
+        "modified": "20190311121352928",
+        "icon": "icon_village.png",
+        "created": "20190310135501204"
+    },
+    {
+        "text": "",
+        "tmap.style": "{}",
+        "tmap.id": "3614bf84-8f8a-4ea9-9d0f-e07bb863c7ba",
+        "title": "Menos",
+        "tags": "location known town",
+        "modified": "20190310142542248",
+        "icon": "icon_village.png",
+        "created": "20190310135802286"
+    },
+    {
+        "text": "",
+        "tmap.style": "{}",
+        "tmap.id": "2309e028-0310-4757-aeff-7cd34ad709bd",
+        "title": "Moreth",
+        "tags": "known location town",
+        "modified": "20190310142506321",
+        "icon": "icon_village.png",
+        "created": "20190310133828058"
+    },
+    {
+        "text": "<<Entry>>",
+        "tmap.style": "{}",
+        "tmap.id": "357f2318-0665-452d-99f3-86e883584c88",
+        "title": "Mount Acdor",
+        "tags": "location known mountain",
+        "short_desc": "A mountain most well known for its peak, where [[Turin]] froze the armies of [[Celeste]] and [[Garth]] during the [[Garthan civil war|Garthan Conflict]].",
+        "modified": "20190311121930041",
+        "icon": "icon_summits.png",
+        "created": "20190310133706435"
+    },
+    {
+        "text": "",
+        "tmap.style": "{}",
+        "tmap.id": "d6aedd68-83f8-4879-b249-55c1c03126b9",
+        "title": "Mount Allor",
+        "tags": "location known mountain",
+        "modified": "20190310151609870",
+        "icon": "icon_summits.png",
+        "created": "20190310135534277"
+    },
+    {
+        "text": "",
+        "tmap.style": "{}",
+        "tmap.id": "a78460bf-8d22-43f8-92ff-a1210b4b697a",
+        "title": "Mount Traedor",
+        "tags": "location known mountain",
+        "modified": "20190310151620541",
+        "icon": "icon_summits.png",
+        "created": "20190310135548965"
+    },
+    {
+        "text": "",
+        "tmap.style": "{}",
+        "tmap.id": "54b3a088-15b9-416d-8f5a-5ecc028fa9ca",
+        "title": "Parlich",
+        "tags": "location town known",
+        "modified": "20190310142120480",
+        "icon": "icon_village.png",
+        "created": "20190310135516908"
+    },
+    {
+        "text": "<<Entry>>",
+        "tmap.style": "{}",
+        "tmap.id": "074d1bea-2007-44f4-a2c8-7600b7b4eb0b",
+        "title": "Piach",
+        "tags": "location city known",
+        "short_desc": "A trading city to the northeast of [[Thiesglen]], Piach is famous for its exports of fish and fine food.",
+        "modified": "20190311120943032",
+        "icon": "icon_city.png",
+        "created": "20190310133855035"
+    },
+    {
+        "text": "",
+        "tmap.style": "{}",
+        "tmap.id": "171c1aab-3157-4194-891b-cc18d606190f",
+        "title": "Poisoned Grove",
+        "tags": "location dungeon known",
+        "modified": "20190310142313480",
+        "icon": "icon_dungeon.png",
+        "created": "20190310133643268"
+    },
+    {
+        "text": "",
+        "tmap.style": "{}",
+        "tmap.id": "b1516c86-a86c-4ddd-8dbb-b4a3d8d28b36",
+        "title": "Sand Pits",
+        "tags": "location known dungeon",
+        "modified": "20190310151707318",
+        "icon": "icon_dungeon.png",
+        "created": "20190310135425014"
+    },
+    {
+        "text": "<<Entry>>",
+        "tmap.style": "{}",
+        "tmap.id": "a21ebd80-52bb-47d2-88b1-145f6fc2dff8",
+        "title": "Settler's Point",
+        "tags": "location known landmark",
+        "short_desc": "The location where the first settlers arrived in [[Afias]].",
+        "modified": "20190311124302787",
+        "icon": "icon_landmark.png",
+        "created": "20190310135612710"
+    },
+    {
+        "text": "",
+        "tmap.style": "{}",
+        "tmap.id": "95a2c65a-e99c-49f3-bf09-57ff92713165",
+        "title": "Soros",
+        "tags": "location known town",
+        "modified": "20190310142627025",
+        "icon": "icon_village.png",
+        "created": "20190310135358459"
+    },
+    {
+        "text": "",
+        "tmap.style": "{}",
+        "tmap.id": "c30a0567-9ad6-483a-9b56-428022c474fa",
+        "title": "Thenides",
+        "tags": "location known town",
+        "modified": "20190310142529201",
+        "icon": "icon_village.png",
+        "created": "20190310135330846"
+    },
+    {
+        "text": "<<Entry>>\n\nIts inhabitants are mostly magic users and [[Shamans|Shaman]] who wish to commune with nature and its denizens, and many move there for the peaceful atmosphere and the mysteries within the forest it occupies.",
+        "tmap.style": "{}",
+        "tmap.id": "17ac7ac3-2d9f-459f-8837-7550fd885ce3",
+        "title": "Thiesglen",
+        "tags": "location known city",
+        "short_desc": "A unique city on the Western side of [[Afias]], named after the forest it seamlessly integrates into.",
+        "modified": "20190311120753144",
+        "icon": "icon_city.png",
+        "created": "20190310133803474"
+    },
+    {
+        "text": "<<Entry>>\n\nTurin's Tomb contains many of the mage's most powerful [[Artefacts|Artefacts of Turin]], but is considered impregnable for a variety of perplexing reasons. The following strange occurrences have been reported by individuals that attempted to plumb the depths of his tomb, including archaeologists, researchers, scholars, grave robbers, and other mages:\n\n* A scholar that entered the tomb reported that the moment he stepped foot in the door, he immediately woke up in the nearest city with a strong headache.\n\n* Many mages have claimed to be unable to find the entrance, let alone enter the tomb. Those that have, and attempted to use force to open it, were met with failure, or worse, catastrophic results.\n\n* Two grave robbers entered the chamber after finding the door cracked open, only to emerge an hour later babbling and incoherent. They were admitted to the nearest hospital and recovered within a day or two, but refused to speak of what happened.\n\n* A researcher tried to dig beneath the chamber. After amassing a crew of eight men, and spending nearly 12 hours, they looked up from their digging to find they had barely progressed one metre.\n\n* Multiple attempts to open the [[arcane lock|Arcane Lock]] mechanism on the door have failed spectacularly, including one instance where a mage disintegrated and reapparated about 400 metres above the tomb. Another instead [[transmutated|Transmutation]] a nearby blade of grass into a tiny goat. The goat is kept in the [[Council]]'s living quarters, in a tiny paddock.\n\n* Anyone with malicious intent, or those who wish to destroy the tomb usually cannot even see it. An inebriated demolition mage, for the purpose of a bet, attempted to throw a powerful demolishing spell at the tomb, only to have it deflected. The deflection transsorced the spell into bouquet of [[Snapweeds]].\n\n* The [[Council]] organised a huge gathering of high level mages to attempt to enter the tomb in any way possible. After 2 days, it was revealed all 100 participants were practising magicks on a barn nearby instead. They were completely unaware of this fact until one participant broke the illusion and informed the others.\n\nThe [[Council]] has not ordered any further attempts.",
+        "tmap.style": "{}",
+        "tmap.id": "be6b764c-e2c7-4f71-b523-3b9fc00ab0c0",
+        "title": "Tomb of Turin",
+        "tags": "location known mystery",
+        "short_desc": "The final resting place of the revered [[Archmage]], [[Turin]]. Its contents are unknown.",
+        "modified": "20190310150908021",
+        "icon": "icon_mystery.png",
+        "created": "20190310140122477"
+    },
+    {
+        "text": "",
+        "tmap.style": "{}",
+        "tmap.id": "07c1cc61-c58a-4985-bf06-fd50e956be4e",
+        "title": "Windy Vale",
+        "tags": "location town known",
+        "modified": "20190310142159464",
+        "icon": "icon_village.png",
+        "created": "20190310133554220"
+    }
+]
